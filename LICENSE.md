@@ -1,4 +1,4 @@
-Copyright 2013 Mauro Bianchi
+Copyright 2013 Mauro Bianchi..
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

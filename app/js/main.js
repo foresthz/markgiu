@@ -7,6 +7,7 @@ $(function(){
     //instantiate markgiu app and bind it to DOM
     var markGiuApp = new markgiu.AppGui();
     markGiuApp.bindChoosers('#choosefile', '#savefileas');
+    // what is ko?
     ko.applyBindings(markGiuApp, $("#wrap")[0]);
     
     //show window
